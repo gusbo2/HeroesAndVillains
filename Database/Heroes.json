@@ -1,0 +1,112 @@
+[
+  {
+    "id": 70,
+    "name": "Batman",
+    "intelligence": 100,
+    "strength": 26,
+    "speed": 27,
+    "durability": 50,
+    "power": 47,
+    "combat": 100,
+    "alliance": "Hero"
+  },
+  {
+    "id": 644,
+    "name": "Superman",
+    "intelligence": 94,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 85,
+    "alliance": "Hero"
+  },
+  {
+    "id": 263,
+    "name": "Flash",
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 100,
+    "durability": 50,
+    "power": 68,
+    "combat": 32,
+    "alliance": "Hero"
+  },
+  {
+    "id": 659,
+    "name": "Thor",
+    "intelligence": 69,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 100,
+    "alliance": "Hero"
+  },
+  {
+    "id": 107,
+    "name": "Black Widow",
+    "intelligence": 75,
+    "strength": 13,
+    "spee": 3,
+    "durability": 3,
+    "power": 3,
+    "combat": 10,
+    "alliance": "Hero"
+  },
+  {
+    "id": 106,
+    "name": "Black Panther",
+    "intelligence": 88,
+    "strength": 16,
+    "speed": 30,
+    "durability": 60,
+    "power": 41,
+    "combat": 100,
+    "alliance": "Hero"
+  },
+  {
+    "id": 655,
+    "name": "Thanos",
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 33,
+    "durability": 100,
+    "power": 100,
+    "combat": 80,
+    "alliance": "Villain"
+  },
+  {
+    "id": 370,
+    "name": "Joker",
+    "intelligence": 100,
+    "strength": 10,
+    "speed": 12,
+    "durability": 60,
+    "power": 43,
+    "combat": 70,
+    "alliance": "Villain"
+  },
+  {
+    "id": 514,
+    "name": "Penguin",
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 30,
+    "combat": 45,
+    "alliance": "Villain"
+  },
+  {
+    "id": 687,
+    "name": "Venom",
+    "intelligence": 75,
+    "strength": 57,
+    "speed": 65,
+    "durability": 84,
+    "power": 86,
+    "combat": 84,
+    "alliance": "Villain"
+  }
+]

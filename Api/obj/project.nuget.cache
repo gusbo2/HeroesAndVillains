@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p3AjmJHy64ppJZMqtIXMR3GLNPHoMUv9NR/gQSqYxGP46IPxettfwXtlit8q5T28yjvuwPUI5TybTuLktxypag==",
+  "success": true,
+  "projectFilePath": "/home/dev2/Desktop/Study/HeroesAndVillains/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/home/dev2/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
